@@ -147,6 +147,11 @@ main {
     text-align: right;
 }
 
+
+.main-benefits__mobile {
+    display: none;
+}
+
 .main-benefits__left {
     margin-right: 26px;
 }
@@ -395,6 +400,22 @@ footer {
 
     .main-benefits__columns {
         display: none;
+    }
+
+    main-benefits__mobile {
+        display: flex;
+    }
+
+    .columns-h2 {
+        font-family: "Montserrat";
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        background: url(../img/line.png) 0 7px no-repeat;
+        background-size: 10px 1px;
+        padding-left: 15px;
     }
 
     .shapes-mobile {
