@@ -33,6 +33,10 @@ a {
     color: #E4E5EA; 
 }
 
+.image {
+    display: none;
+}
+
                                                         /* HEADER */
 header {
     display: flex;
@@ -533,6 +537,18 @@ footer {
 
     .footer-security {
         font-size: 13px;
+    }
+
+    .image {
+        display: block;
+        position: absolute;
+        width: 320px;
+        height: 445px;
+        left: 0px;
+        top: 50px;
+
+        background-image: url(../img/glass.png);
+        mix-blend-mode: overlay;
     }
 }
 
