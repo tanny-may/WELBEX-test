@@ -339,7 +339,7 @@ footer {
 
     main {
         margin-top: 25px;
-        background-image: url("../img/glass.png");
+        /* background-image: url("../img/glass.png"); */
 
     }
     .main-hero {
@@ -546,9 +546,8 @@ footer {
         height: 445px;
         left: 0px;
         top: 50px;
-
         background-image: url(../img/glass.png);
-        mix-blend-mode: overlay;
+        mix-blend-mode: difference;
     }
 }
 
