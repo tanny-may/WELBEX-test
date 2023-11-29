@@ -16,7 +16,7 @@ https://tanny-may.github.io/Welbex-site/
 ## Запуск проекта локально
 1. Клонировать репозиторий
    ```sh
-   git clone https://github.com/tanny-may/WELBEX-test
+   git clone https://github.com/tanny-may/Welbex-site
    ```
 2. Открыть в браузере `index.html`
 
