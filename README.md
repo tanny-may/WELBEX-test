@@ -1,7 +1,7 @@
 # Welbex-site
 
 ## Посмотреть можно здесь 
-https://tanny-may.github.io/WELBEX-test/
+https://tanny-may.github.io/Welbex-site/
 
 ## О проекте
 Тестовое задание amoCRM - вёрстка десктопной и мобильной версии главной страницы.
